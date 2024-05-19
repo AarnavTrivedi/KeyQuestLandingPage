@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 18 May 2024 21:29:32 at https://keyquest.framer.website/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://keyquest.framer.website/ -O1 "C:\My Web Sites\keyquest" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:29:40	Error: 	"Not Found" (404) at link https://keyquest.framer.website/&apos;data:image/svg+xml;utf8,%3Csvg xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22 xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22 viewBox%3D%220 0 24 24%22%3E%3Cpath d%3D%22M 16.641 5 L 19.095 5 L 13.735 10.93 L 20.041 19 L 15.103 19 L 11.236 14.106 L 6.811 19 L 4.356 19 L 10.09 12.657 L 4.041 5 L 9.103 5 L 12.599 9.474 Z%22 fill%3D%22rgb(255%2C 255%2C 255 (from https://keyquest.framer.website/)
+21:29:40	Error: 	"Not Found" (404) at link https://keyquest.framer.website/&apos;data:image/svg+xml;utf8,%3Csvg xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22 xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22 viewBox%3D%220 0 24 24%22%3E%3Cpath d%3D%22M 4 8.667 C 4 6.089 6.089 4 8.667 4 L 15.333 4 C 17.911 4 20 6.089 20 8.667 L 20 15.333 C 20 17.911 17.911 20 15.333 20 L 8.667 20 C 6.089 20 4 17.911 4 15.333 Z M 15.333 7.333 C 15.322 7.817 15.574 8.268 15.991 8.513 C 16.408 8.758 16.924 8.758 17.341 8.513 C 17.758 8.269 18.01 7.817 17.999 7.334 C 17.983 6.609 17.391 6.03 16.667 6.03 C 15.942 6.03 15.35 6.609 15.333 7.333 Z M 8.667 12 C 8.667 13.841 10.16 15.334 12.001 15.333 C 13.842 15.333 15.334 13.84 15.334 11.999 C 15.334 10.158 13.841 8.666 12 8.666 C 10.159 8.666 8.666 10.159 8.667 12 Z%22 fill%3D%22rgb(255%2C 255%2C 255 (from https://keyquest.framer.website/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 seconds : 10 links scanned, 7 files written (1496672 bytes overall) [1353171 bytes received at 169146 bytes/sec], 398563 bytes transferred using HTTP compression in 4 files, ratio 12%, 1.6 requests per connection
+(2 errors, 0 warnings, 0 messages)
